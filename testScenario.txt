@@ -1,0 +1,10 @@
+addCustomer Alan Turing
+addDriver James Hunt Standard3
+moveCar Standard1 0 0
+simRide 1 3 4 -1 UberX 5.0
+simRide 4 2 2 -1 UberBlack 4.0
+moveCustomer 1 0 0 
+totalCashed
+makeDriversOffline 
+simRide 5 5 5 -1 UberX 3.0
+printState
